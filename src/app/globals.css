@@ -10,7 +10,8 @@
   display: block;
   overflow-x: hidden;
   padding-inline: 7%;
-  background-color:#FBF8CC;
+  /* background-color:#FBF8CC; */
+  background-image: linear-gradient(135deg,#667eea,#764ba2);
   color: #03045E;
   font-size: 1.5vw;
 }

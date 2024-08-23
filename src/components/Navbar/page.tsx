@@ -15,7 +15,7 @@ const Navbar = () => {
     <div className={styles.NavBar}>
       <h2 className={styles.MainLogo}>
         <Link href="#home" style={{ color: "#03045E" }}>
-          Abhinav Pratap Singh
+          Manash Protim Deori
         </Link>
       </h2>
       <HamMenu />
